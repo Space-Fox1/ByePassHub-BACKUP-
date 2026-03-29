@@ -9,7 +9,7 @@
 **Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
 **Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
-----
+---
 
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 Including ROBLOX, and multiple game hubs <br>
