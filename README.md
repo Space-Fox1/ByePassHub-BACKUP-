@@ -3,7 +3,7 @@
 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 
-Contribution (community) changelogs can be found [here](https://github.com/wea-f/ByePassHub/blob/main/Contributions.md) in the Contributions.md file
+Contribution (community) changelogs can be found [here](https://github.com/wea-f/ByePassHub/blob/main/Contributions.md) in the Contributions.md file <br>
 FYI: **"Proxies" = "Unblockers"** <br> <br>
 - **2100+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
 - To find the **best resources (hubs, google docs, discord servers, etc) for links**, go [here](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md), or the Other Ways to get Proxies file <br> <br>
