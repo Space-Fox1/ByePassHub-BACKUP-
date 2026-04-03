@@ -21,6 +21,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br> <br>
 
 **Announcements:**
+- April 3 - Sorted whole link dump and added a bunch of links (Itscharged :P)
 - March 28 - MOST UPDATED LINKS ARE FOUND [HERE](#link-dump) FROM NOW ON!!
 - Jan 4 - Happy New Year, found 100+ links, go [here](#link-dump), or scroll down until you see "Link Dump."
 - November 7 - Rechecked ALL Links, added more (new Ghosted and Vapor Sites!) too!!
@@ -31,9 +32,8 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 
 ## Updates/Changes:
 
-### January 4 & 19 & 26, 2026 - Added 400+ Links, includes 15+ NEW sites!!
-- Link Dump: Scroll down to [here](#link-dump)
-  - Consists of Selenite, gn math, some shadow, as well as some new sites that I found. 
+### April 4. BIGGGG Update
+- I completly sorted the link dump and even added a bunch of links from the offical Servers or own usage
 
 <br>
 
