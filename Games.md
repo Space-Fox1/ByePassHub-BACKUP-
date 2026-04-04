@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Nov 7
+# ByePassHub > Games | updated April 4
 ## If you like this list, make sure to star it!
 
 **Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -19,7 +19,10 @@ Including ROBLOX, and multiple game hubs <br>
 ## I highly recommend checking out the [mainUnblockers](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) page instead of this one. It includes the most updated links that have many games!!! But, this page still has some working ones, like Minecraft and Roblox.
 <br> <br>
 ---
-SPOTLIGHT (from November 7th Update)
+SPOTLIGHT (from November 7th Update) <br>
+New Link (issue [#157](https://github.com/wea-f/ByePassHub/issues/157)) <br>
+https://thepercentcalculator.com/games <br>
+
 ### 1346
 https://thirteenfo.netlify.app/ <br>
 https://71745718.online/ <br>
