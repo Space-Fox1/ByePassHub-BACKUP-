@@ -33,7 +33,12 @@ I do not own any of these proxies and I do not guarantee if they are functional,
 
 ### Credits
 Thank you to our contributors! <br>
-<a href="https://github.com/wea-f/ByePassHub/graphs/contributors">
+<!-- <a href="https://github.com/wea-f/ByePassHub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=wea-f/ByePassHub" />
+</a> -->
+
+<a href="https://github.com/wea-f/ByePassHub/graphs/contributors">
+  <img src="https://github.com/wea-f/ByePassHub/graphs/contributors" />
 </a>
+
 Community changelogs can be found [here](https://github.com/wea-f/ByePassHub/blob/main/Contributions.md) in the Contributions.md file
