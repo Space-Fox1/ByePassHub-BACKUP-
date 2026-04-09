@@ -18,15 +18,14 @@ This is a collection of links of proxies, games, AI, and apps. <br>
   
   **PRO TIP:** Use multiple url openers, like https://www.openmultipleurl.com/, https://www.openallurls.com/, and https://www.websiteplanet.com/webtools/multiple-url/, to find unblocked links faster! <br>
   
-<br>
 
-**Announcements:**
+**Announcements:** <br>
 - April 4 - Added 90+ Links! + New formatting/organization!
 - April 3 - Sorted whole link dump and added a bunch of links (Itscharged)
 
 ## Updates/Changes:
 ### April 5, 2026 - 250+ NEW Links, 6 NEW SITES ADDED, Rechecked every single one! Link Total: 725!
-**New SITES ADDED:** <br>
+**New SITES ADDED:**
 - 40+ New site, [Interstellar](#interstellar)
 - 20+ New GAME site, [Gn Math](#gn-math)
 - 20+ New site, [Overcloaked](#overcloaked)
@@ -34,20 +33,20 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 10+ New site, [Velera](#velera)
 - 10+ [Unsorted Links](#unsorted-games-and-proxies)
 - 5+ New site, [Reds Exploit Corner](#reds-exploit-corner)
-**New links added:** <br>
+
+**New links added:**
 - 30+ [Truffled](#truffled)
 - 25+ [Rammerhead](#rammerhead--chrome-like-proxy)
 - 20+ [Utopia](#utopia)
-- 20+ [Vapor](#vapor)
+- 20+ [Vapor](#vapor--a-lot-of-games)
 - 20+ [Fern](#fern)
-- 10+ [Selenite](#selenite)
-- 10+ [Galaxy V6]((#galaxy-v6--dark-os)
+- 10+ [Selenite](#selenite--gaming-and-apps)
+- 10+ [Galaxy V6](#galaxy-v6--dark-os)
 - 5+ [Endis](#endis--can-do-everythings)
 - 5+ [Quasar](#quasar)
 - 5+ [dogeub](#dogeub--very-clean)
 - 5+ [Rosin](#rosin)
 - 3+ [LuminalOS](#luminalos)
-
 
 ### April 4, 2026 - BIGGGG Update - Credits to @ItsCharged for help
 - Added 90+ Links, can be found under 2026-04-04
@@ -120,13 +119,15 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 20+ [Overcloaked](#overcloaked) | Proxy, games, apps, MUSIC, AI | Stauts: Stable ✅
 - 2 [Petezah](#petezah) | Proxy, games, apps, ai | Status: Stable ✅
 - 5+ [Reds Exploit corner](#reds-exploit-corner) | the usual | Status: Stable ✅
-
 - 10+ [Unsorted Links](#unsorted-games-and-proxies) | Proxy, games | Status: Varying 😐
+
 ### 🤖 AI
 - 55+ [AI and Homework Solvers](#ai-and-homework-solvers) | good AI + homework help | Status: Varying 😬
+
 ### 💬 Other Resources
 - 20+ [Proxy Discord Servers](#proxy-discord-servers) | community link drops | Status: Flourishing 💯
 - 20+ [Other Lists Like This One](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) | link collections | Status: Varying 😬
+
 ---
 
 ## website title | what it contains | any note if needed
