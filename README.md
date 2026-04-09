@@ -13,14 +13,13 @@ FYI: **"Proxies" = "Unblockers"** <br>
 ### Explore Cheats, Exploits, and iPad Unblockers
 - **15+ Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
 - **90+ Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits/README.md) <br>
-- **10+ Downloaders:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Downloaders.md) or go to the Downloaders.md file <br> 
 - **5+ Apple Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file. <br>
 
 > [!NOTE]
 > If half the links don't work? Explore [this page](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) for the latest working proxies, exploits, and games!
 
 ### Others
-- **50+ Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or go to the Movies&Anime.md file <br> 
+- **Movies and Anime:** Becuase these are heavily oudated, the old links were removed. Check out https://github.com/wea-f/ByePassHub/blob/BPH-Clean/Other%20Ways%20to%20get%20Proxies%20.md#resource-3-online-proxy-collections for the latest collections by others. (The Google doc collections tend to have movie and anime sites).
 - **2100+ Unblockers (Proxies) with Games, AI, and Apps WITHOUT KEY WORDS (or go to BPH google doc):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/encryptedversion.md) or to the encryptedversion file 
 - [BPH Google Doc](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing) if Github is blocked
 
