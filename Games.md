@@ -1,7 +1,7 @@
 # ByePassHub > Games 
 ## If you like this list, make sure to star it!
 
-**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
+**Tools:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Tools) or go to the Tools folder. <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
 **Apple Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file <br>
 **Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
