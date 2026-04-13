@@ -20,4 +20,4 @@ You can follow the steps below to get the wifi password too.
 > [!WARNING]
 > I highly recommend going to other exploit hubs as they are more updated: Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/Helpful%20Info%20.md#exploit-collections) to find some.
 
-<br> **Back to [README file](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md)** (The starting file)
+<br> **Back to [README file](https://github.com/wea-f/ByePassHub/blob/main/Tools/README.md)** (The starting file)
