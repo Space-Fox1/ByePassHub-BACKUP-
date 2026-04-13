@@ -1,7 +1,7 @@
 # ByePassHub | Main Hub
 ## If you like this collection, make sure to star it! 🌠🌠🌠
 
-This is a collection of links of proxies, games, utilities for privacy, tools, AI, and apps.  <br>
+This is a collection of links of proxies, games, privacy utilities, tools, AI, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"** <br>
 ### Explore Links
 - **700+ Unblocker Hubs (proxy, games, apps), AI, and Game Hubs:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br>
