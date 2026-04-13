@@ -61,7 +61,7 @@ Viper Networks: https://docs.google.com/document/d/1jK_YbLswr_zDIvlkaAdS8U1R_dhI
 Worldly Network: https://docs.google.com/document/d/1I-5J5pqc16iXNPGV8AJcTKWbK8iIBAKE57wX6n1ah5Y/edit?pli=1&tab=t.0 <br>
 Group Assignment: https://docs.google.com/document/d/1hw0Zkee7sQO4ydPJNok9aCPOOnqDhxYGzT5TlR8rlxo/edit?tab=t.0#heading=h.tnwyti5xbi9v <br>
 
-## Resource #5: BYOD
+## Resource #4: BYOD
 You can even make your own links with a specific domain. <br>
 This means if a specific domain is unblocked for you, you could try making more proxies with the same domain, which will all be unblocked. <br>
 You could see the instructions [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md), or join some of the above discord servers with more specific instructions (and if you need help) <br>
