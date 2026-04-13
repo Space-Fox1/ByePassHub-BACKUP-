@@ -55,34 +55,11 @@ Unenrolling guide: https://chromebook-guide.github.io/ <br>
 This website/youtube channel updates weekly: https://afkinfo.blogspot.com/ <br>
 Also good website: https://ubghub.org/ <br>
 
-https://bio.link/theblackhand <br>
-https://bio.link/fuhnny <br>
-https://twigs-utilities.github.io/Pr0x1es.html <br>
-https://forum.worldguessr.com/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-may-2024/14464 <br>
-https://haleyschool.com/new-links <br>
-https://github.com/Salty-Coder/Unblocked-Sites <br>
-https://github.com/pri3sts/unblockedbrowsers/blob/main/main <br>
-https://benrogo.net/linkies <br>
-
-Popular Google Doc Networks: <br>
-Untitled Document: https://docs.google.com/document/d/1BkBoYlJm47LXQ7fnZG3dtyU8I6RTYKgjO8Is6DBiBhI/edit <br>
-Battle Dragon's Netowrk: https://docs.google.com/document/d/1Kg6Uuspd1LBNAS_rLKCLVefSXvxjh3VwcUjB3zmSRog/edit <br>
-JNT Networks: https://docs.google.com/document/d/1fybE49es_jt61A4SxWOmX1RQSJulSYjxwZNsHkl72W8/edit <br>
-Dark Networks: https://docs.google.com/document/d/1NLl3X_RuvMlCDHfzKcB2LLIL2fD2vZ0M6Yzfg2V-D0o/preview <br>
-Primal Networks: https://docs.google.com/document/d/1R_Rifi41XLgtTFCve8g5-2ugAEnOcDT5XB1_G5ykVag/edit <br>
-Genesis Hyperspace: https://docs.google.com/document/d/1j0pBEDT-zs5LghhN3OdrUwsrIfaUgU3wE3uj1nL7SEI/edit <br>
-Freddy's Internet (Lots of links): https://docs.google.com/document/d/1AwSTQ3l6Oy_l4I-ABgbrkS1oSAPuZPwgKZNFDvEx4FU/edit?tab=t.0 <br>
-Other Google Doc Networks (too lazy to put their names): <br> <br>
-https://docs.google.com/document/d/1gVp7hkkGC5JQx1w7k50f2TH9KQXLcsf48Z7q9NzPlaQ/edit <br>
-https://docs.google.com/document/d/19KXP8kas7xgHeJ_lq7d93XkO4OX8SbEuU-owUbxVNHs/edit <br>
-https://docs.google.com/document/d/1WJ-cHDVRuL3JiH-yQinvO7MIDac7v1-Py0NnQ_2eVGY/edit <br>
-https://docs.google.com/document/d/1dfi8pI2j9g2yipPuQ3Ed1Aibq_WkDQLLGA2VR4l1c8A/edit <br>
-https://docs.google.com/document/d/1I-5J5pqc16iXNPGV8AJcTKWbK8iIBAKE57wX6n1ah5Y/edit <br>
-
-https://docs.google.com/document/d/1VaZOMeIc3mB73Eowg7YxvyDPEwKTvCrx1001aAXT_gU/edit?usp=sharing <br>
-https://docs.google.com/document/d/1jK_YbLswr_zDIvlkaAdS8U1R_dhIzA4J1J09xbrHgGQ/edit <br>
-https://docs.google.com/document/d/1Q5V1AgsoS2hbCvQJ7RmDzx4ZRIaiGRLLhjkhOrjJqLc/edit?usp=sharing <br>
-https://docs.google.com/document/d/1fy1MAH28pFFrxDkOCEnhKWVl74-mtFA4ZBMoF7OQAm0/edit#heading=h.lzsxfhaz0cl8 <br> <br>
+Google Doc Networks: <br>
+Freddy's Internet: https://docs.google.com/document/d/1zOiqGMQ5bnhdBlzcuv4CPDDKpHEpINxGsvdXu2N8Qbk/edit?tab=t.kz7rrm8a93dm <br>
+Viper Networks: https://docs.google.com/document/d/1jK_YbLswr_zDIvlkaAdS8U1R_dhIzA4J1J09xbrHgGQ/edit?tab=t.0 <br>
+Worldly Network: https://docs.google.com/document/d/1I-5J5pqc16iXNPGV8AJcTKWbK8iIBAKE57wX6n1ah5Y/edit?pli=1&tab=t.0 <br>
+Group Assignment: https://docs.google.com/document/d/1hw0Zkee7sQO4ydPJNok9aCPOOnqDhxYGzT5TlR8rlxo/edit?tab=t.0#heading=h.tnwyti5xbi9v <br>
 
 ## Resource #5: BYOD
 You can even make your own links with a specific domain. <br>
