@@ -10,7 +10,7 @@ FYI: **"Proxies" = "Unblockers"** <br>
 
 ### Explore Links
 - **700+ Unblocker Hubs (proxy, games, apps), AI, and Game Hubs:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br>
-- **20+ Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/SearchEngines.md) or go to the UnblockedSearchEngines.md file.  <br>
+- **20+ Privacy-Focused Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/SearchEngines.md) or go to the UnblockedSearchEngines.md file.  <br>
 - To find the **best resources (hubs, google docs, discord servers, etc) for links**, go [here](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md), or the Other Ways to get Proxies file <br>
 - **How to make your OWN proxy link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.<br>
 - **180+ Minecraft, Roblox, 1v1.lol. Shell Shockers, Chess links:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
