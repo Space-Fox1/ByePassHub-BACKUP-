@@ -1,10 +1,12 @@
 # ByePassHub | Main Hub
-## Thank you for the community contributions and 470 stars!
+## Massive Appreciation for the community contributions and 470 stars! Thank you!
 
 This is a collection of links of proxies, games, privacy utilities, tools, AI, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"** <br>
 > [!WARNING]
-> Last update was 4/12/26. To find the latest links, go [here](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) for the best resources.
+> Last update: 4/12/26. 
+> To find the latest links & tools, go [here](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) for the best & latest resources.
+> As of 4/12/26, this will not be actively maintained.
 
 ### Explore Links
 - **700+ Unblocker Hubs (proxy, games, apps), AI, and Game Hubs:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br>
