@@ -1,30 +1,16 @@
-# ByePassHub > Other ways to get Proxies | updated Jan 26
-On this page, I'm going to give you **THE BEST** resources to find proxies, exploits, bypasses, etc. that are *hidden* to the public eye, so <br>
-1. You can get the freshest links and exploits 😎
-2. Those links and bypasses are more likely to **stay** being unblocked
-3. You can get **more**, 📈
-4. and I can do less (i won't be updating that often) 📉
+# ByePassHub > Other ways to get Proxies | updated April 12
+Resources to find proxies, exploits, bypasses, etc. that are *hidden* to the public eye, so <br>
+1. You can get the freshest links and tools 😎
+2. Those links and bypasses are more likely to work for a longer time
 
----
-
-**Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
-**Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
-**Downloaders:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Downloaders.md) or go to the Downloaders.md file <br>
-**Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
-**Apple Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file <br>
-**Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
-**Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
-**Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
-
----
-
-## Resource #1: Proxy and Exploit Discord Servers
+## Resource #1: Discord Servers
 After joining these servers (make sure you have a discord account first), you can verify and access plenty of links. <br>
 **Usually, these servers have a channel called `community links` where people would post fresh links that they made.**  <br>
 They also have things called **link dispensers**, these links are PRIVATE, 100% working, and probably the most secure links. <br>
 
 They also have instructions for BYOD, meaning creating your own proxy site, and you could follow their instructions too (or follow mine [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md)). <br>
 <br>
+Titanium Network (has exploits): https://discord.gg/unblock <br>
 Interstellar: https://discord.gg/interstellar  <br>
 Mercury Workshop Public - HAS EXPLOTIS TOO: https://discord.gg/unblock  <br>
 Shuttle Network: https://discord.gg/xi   <br>
@@ -55,20 +41,20 @@ Universal Network: https://discord.gg/nX6sWSa9HE <br>
 To the left is the proxy name, to the right is the discord invite link (some may not work)
 
 ## Resource #2: Exploit Collections
-**Use a proxy (mainUnblockers.md) if the sites are blocked. <br>
-Titanium Network: https://docs.titaniumnetwork.org/guides/ (they also have a really good discord server!)<br>
+**Use a proxy (mainUnblockers.md or see above) if the sites are blocked. <br>
+Titanium Network: https://docs.titaniumnetwork.org/guides/<br>
+Titanium Network Github: https://github.com/titaniumnetwork-dev/Oxide-Docs/ <br>
 Chromebook utilities: https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/README.md <br>
-Corellium (stopped updating): https://github.com/Burvyn/Corellium/tree/main <br>
 Chrose: https://chrose.netlify.app/ <br>
 Mercury Workshop: https://mercurywork.shop/ <br>
+Their github: https://github.com/MercuryWorkshop <br>
 Ext remover: https://github.com/3kh0/ext-remover <br>
-[Chromebook Wifi Unlock](https://docs.google.com/presentation/d/1v1bpEnvQ0OiZ-0-7t_n4VszUAArajypVp1A4A0JmYYI/edit?usp=sharing) <br>
-Unenrolling guide: https://chromebook-guide.github.io/ <br> <br>
+Unenrolling guide: https://chromebook-guide.github.io/ <br>
 
 ## Resource #3: Online Proxy Collections
-This website/youtube channel updates weekly!!: https://afkinfo.blogspot.com/ <br>
+This website/youtube channel updates weekly: https://afkinfo.blogspot.com/ <br>
 Also good website: https://ubghub.org/ <br>
-There are many other proxy collections like this one, but maybe not as popular (or more popular) <br>
+
 https://bio.link/theblackhand <br>
 https://bio.link/fuhnny <br>
 https://twigs-utilities.github.io/Pr0x1es.html <br>
@@ -98,7 +84,7 @@ https://docs.google.com/document/d/1jK_YbLswr_zDIvlkaAdS8U1R_dhIzA4J1J09xbrHgGQ/
 https://docs.google.com/document/d/1Q5V1AgsoS2hbCvQJ7RmDzx4ZRIaiGRLLhjkhOrjJqLc/edit?usp=sharing <br>
 https://docs.google.com/document/d/1fy1MAH28pFFrxDkOCEnhKWVl74-mtFA4ZBMoF7OQAm0/edit#heading=h.lzsxfhaz0cl8 <br> <br>
 
-## Resource #4: BYOD
+## Resource #5: BYOD
 You can even make your own links with a specific domain. <br>
 This means if a specific domain is unblocked for you, you could try making more proxies with the same domain, which will all be unblocked. <br>
 You could see the instructions [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md), or join some of the above discord servers with more specific instructions (and if you need help) <br>
