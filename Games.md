@@ -1,21 +1,16 @@
-# ByePassHub > Games | updated April 12
+# ByePassHub > Games 
 ## If you like this list, make sure to star it!
 
 **Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
-**Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
 **Apple Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file <br>
-**Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
 **Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
 **Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
 ---
 
 This is a collection of links of ONLY games, no unblockers just games.  <br>
-Including ROBLOX, and multiple game hubs <br>
-> [!WARNING]
-> This is outdated.
-## I highly recommend checking out the [mainUnblockers](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) page instead of this one. It includes the most updated links that have many games!!! But, this page still has some working ones, like Minecraft and Roblox.
+
 <br> <br>
 ---
 SPOTLIGHT (from November 7th Update) <br>
@@ -35,45 +30,23 @@ https://unnamedservice.global.ssl.fastly.net/ <br>
 https://binjadagoat.global.ssl.fastly.net/ <br>
 https://work.global.ssl.fastly.net/ <br>
 
-Join this discord for more games!! https://discord.com/invite/Gv4rVt2SJp <br> <br>
 ---
 ### Table of Contents:
 *Italicized ones are RECOMMENDED.* <br>
 Links with a **NEW** tag means that the link was added recently (< 1 week ago) <br>
   - *Roblox:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
-  - Unblocked Games Hub: [here](#unblocked-games-hub)
-  - 1346 Games: [here](#1346)
-  - A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
-  - Vafor IT: [here](#vafor-it) - It has ads, be careful!
   - **Minecraft:** [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
+  - Shell Shockers [here](#shell-shocker-alternatives)
   - Chess: [here](#chess)
   - 1v1.LOL (10+): [here](#1v1lol)
-- Hydra: [here](#hydra)
 
 ---
-**Other files:** <br>
-**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md) <br>
-**Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
-**Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
-**Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or to the movies&anime.md file <br>
-**Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
-**Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br>
-**Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
-
-
-
-### Be sure to scroll all the way down for ALL links. 
-I've got these links from multiple sources. Like [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
-  Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
-
 
 ## website title | any note if needed
 
 ### Selenite | RECOMMENDED
 Moved them to the mainUnblockers page: https://github.com/wea-f/ByePassHub/blob/summer/mainUnblockers.md#selenite--games-apps <br>
 **^ Back to [top ^](#table-of-contents)**
-
-  
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
 
@@ -115,7 +88,7 @@ https://v3.now.gg/ <br>
 
 
 
-### Shell Shockers Alternatives ([credit](https://shellshockers.fandom.com/wiki/Alternate_URLs))
+### Shell Shockers Alternatives
 
 https://shellshock.io <br>
 
@@ -366,15 +339,6 @@ https://aim.lol/ <br>
 
 https://nowcollege.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/1v1_lol.html <br>
  
-
-
-## Hydra
-
-https://walk.artitech.com/ <br>
-
-https://local.garmanage.com/ <br>
- 
-
 ---
 
 ### Lich
