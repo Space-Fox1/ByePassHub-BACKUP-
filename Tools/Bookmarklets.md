@@ -1,6 +1,6 @@
 ## ByePassHub > Exploits > Bookmarklets > Bookmarklets
 ## If you like this, make sure to star it!
-**If you need help on creating a bookmarklet**, Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/Bookmarklets/CreatingBookmarklets.md) or to the CreatingBookmarklets file<br>
+**If you need help on creating a bookmarklet**, Go [here](https://github.com/wea-f/ByePassHub/blob/main/Tools/CreatingBookmarklets.md) or to the CreatingBookmarklets file<br>
 **Unblocker and game links**: Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file. <br>
 **Main game links:** [Here](https://github.com/wea-f/ByePassHub/blob/main/Games.md)  <br>
 
@@ -9,7 +9,7 @@
 ### This is a collection of bookmarklets<br>
 
 > [!WARNING]
-> ⚠️ Use at your own risk. This is heavily outdated, highly recommend checking out https://github.com/wea-f/ByePassHub/blob/main/Exploits/Helpful%20Info%20.md#exploit-collections
+> ⚠️ Use at your own risk. This is heavily outdated, highly recommend checking out https://github.com/wea-f/ByePassHub/blob/main/Tools/Helpful%20Info%20.md#exploit-collections
 
 ---
 Table of Contents & Shortcuts
