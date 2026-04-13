@@ -7,24 +7,22 @@
 
 ---
 ### Table of Contents
-  * [**Helpful Info**](https://github.com/wea-f/ByePassHub/blob/main/Exploits/Helpful%20Info%20.md)
+  * [**Helpful Info**](https://github.com/wea-f/ByePassHub/blob/main/Tools/Helpful%20Info%20.md)
       - Includes: Basic exploit info (extension ids, chrome version, and **other exploit collections**)
-  * [**IOS Tweaks**](https://github.com/wea-f/ByePassHub/blob/main/Exploits/IOSExploits.md)
+  * [**IOS Tweaks**](https://github.com/wea-f/ByePassHub/blob/main/Tools/IOSExploits.md)
       - Includes: Website Bypasses, BG Bypasses, Anti-History
-  * [**Unblocked Youtube Videos**](https://github.com/wea-f/ByePassHub/blob/main/Exploits/YouTube%20Unblocked%20%20.md)
+  * [**Unblocked Youtube Videos**](https://github.com/wea-f/ByePassHub/blob/main/Tools/YouTube%20Unblocked%20%20.md)
       - Includes: Links to Unblock, DIY Tutorial
-  * [**Free up Chrome**](https://github.com/wea-f/ByePassHub/blob/main/Exploits/Helpful%20Info%20.md#exploit-collections)
-     - Includes: Latest ones are at https://github.com/wea-f/ByePassHub/blob/main/Exploits/Helpful%20Info%20.md#exploit-collections for the latest ones
-  * [**Disabling extensions:**](https://github.com/wea-f/ByePassHub/blob/main/Exploits/Helpful%20Info%20.md#exploit-collections)
+  * [**Disabling extensions:**](https://github.com/wea-f/ByePassHub/blob/main/Tools/Helpful%20Info%20.md#exploit-collections)
      - See the latest ones at https://github.com/wea-f/ByePassHub/blob/main/Exploits/Helpful%20Info%20.md#exploit-collections
-    * [**VMs (Virtual Machines)**](https://github.com/wea-f/ByePassHub/blob/main/Exploits/VMs%20%20.md)
+    * [**VMs (Virtual Machines)**](https://github.com/wea-f/ByePassHub/blob/main/Tools/VMs%20%20.md)
      - Includes: Microsoft VM, Distrosea (Linux VM)
-  * [**DEVELOPER MODE on chromebook**](https://github.com/wea-f/ByePassHub/blob/main/Exploits/Developer%20Mode%20%20%20.md)
-    - Strongly recommend seeing https://github.com/wea-f/ByePassHub/blob/main/Exploits/Helpful%20Info%20.md#exploit-collections for up to date instructions
-  * [**Blocking automatic chrome updates**](https://github.com/wea-f/ByePassHub/blob/main/Exploits/Block%20Chrome%20Updates%20%20.md)
+  * [**DEVELOPER MODE on chromebook**](https://github.com/wea-f/ByePassHub/blob/main/Tools/Developer%20Mode%20%20%20.md)
+    - Strongly recommend seeing https://github.com/wea-f/ByePassHub/blob/main/Tools/Helpful%20Info%20.md#exploit-collections for up to date instructions
+  * [**Blocking automatic chrome updates**](https://github.com/wea-f/ByePassHub/blob/main/Tools/Block%20Chrome%20Updates%20%20.md)
      - Including the exploits: CAUB (**Recommended**), CAUB 2
 f/ByePassHub/blob/main/Exploits/Helpful%20Info%20.md#exploit-collections)
-  *  [**Bookmarklet Tools**](https://github.com/wea-f/ByePassHub/tree/main/Exploits/Bookmarklets)
+  *  [**Bookmarklet Tools**](https://github.com/wea-f/ByePassHub/tree/main/Tools/Bookmarklets.md)
      - Including: 25+ Scripts, and steps to creating a bookmarklet. Likely patched 
 ---
 
