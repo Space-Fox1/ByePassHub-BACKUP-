@@ -19,10 +19,18 @@ This is a collection of links of proxies, games, AI, and apps. <br>
   
 
 **Announcements:** <br>
+- April 12...
+> As of 4/12/26, this will not be actively maintained.
 - April 4 - Added 90+ Links! + New formatting/organization!
 - April 3 - Sorted whole link dump and added a bunch of links (Itscharged)
 
 ## Updates/Changes:
+### April 12, 2026
+> [!NOTE]
+> Last update: 4/12/26. 
+> To find the latest links & tools, go [here](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) for the best & latest resources.
+> As of 4/12/26, this will not be actively maintained.
+
 ### April 5, 2026 - 250+ NEW Links, 6 NEW SITES ADDED, Rechecked every single one! Link Total: 725!
 **New SITES ADDED:**
 - 40+ New site, [Interstellar](#interstellar)
