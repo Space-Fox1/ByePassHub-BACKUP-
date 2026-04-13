@@ -1,7 +1,7 @@
-# ByePassHub > Shortcuts Programs | updated April 9
+# ByePassHub > Shortcuts Programs | updated April 12
 ## If you like this list, make sure to star it!
 ### This is a collection of programs made in Shortcuts! 
-**Tools:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Tools) or go to the Exploits folder. <br>
+**Tools:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Tools) or go to the Tools folder. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
 **Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
