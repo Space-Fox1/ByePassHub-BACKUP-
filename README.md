@@ -15,7 +15,7 @@ FYI: **"Proxies" = "Unblockers"** <br>
 - **How to make your OWN proxy link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.<br>
 - **180+ Minecraft, Roblox, 1v1.lol. Shell Shockers, Chess links:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
 
-### Explore Tools and iPad Utilities
+### Explore Chromebook Tools, Bookmarklets, and iPad Utilities
 - **Tools:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Tools/README.md) <br>
 - **5+ Apple Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file. <br>
 
