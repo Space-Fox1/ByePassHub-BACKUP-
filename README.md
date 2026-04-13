@@ -1,5 +1,5 @@
 # ByePassHub | Main Hub
-## If you like this collection, make sure to star it! 🌠🌠🌠
+## Thank you for the community contributions and 470 stars!
 
 This is a collection of links of proxies, games, privacy utilities, tools, AI, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"** <br>
