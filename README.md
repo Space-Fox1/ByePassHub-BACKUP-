@@ -1,5 +1,5 @@
 # ByePassHub | Main Hub
-## Massive Appreciation for the community contributions and 470 stars! Thank you!
+## Massive Appreciation for the community contributions and 470 stars! Thank you All!
 
 This is a collection of links of proxies, games, privacy utilities, tools, AI, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"** <br>
