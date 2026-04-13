@@ -1,7 +1,7 @@
-# ByePassHub > Games | updated April 4
+# ByePassHub > Games | updated April 12
 ## If you like this list, make sure to star it!
 
-**Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
+**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
 **Apple Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file <br>
@@ -40,37 +40,15 @@ Join this discord for more games!! https://discord.com/invite/Gv4rVt2SJp <br> <b
 ### Table of Contents:
 *Italicized ones are RECOMMENDED.* <br>
 Links with a **NEW** tag means that the link was added recently (< 1 week ago) <br>
-  - ***Selenite***: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
   - *Roblox:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
   - Unblocked Games Hub: [here](#unblocked-games-hub)
   - 1346 Games: [here](#1346)
   - A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
-  - ***Phantom Games:*** [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
-  - 3kh0: [here](#3kh0--recommended)
-  - *Google Sites:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
-  - *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#jordans-math-work)
   - Vafor IT: [here](#vafor-it) - It has ads, be careful!
-  - Shell Shockers (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
   - **Minecraft:** [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
   - Chess: [here](#chess)
   - 1v1.LOL (10+): [here](#1v1lol)
-  - Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
-  - Plexile Arcade (20+): [here](#plexile-arcade)
 - Hydra: [here](#hydra)
-* **Game Hubs with less than 1-2 links:**
-  - *Lich:* [here](#lich)
-  - Not Games: [here](#not-games)
-  - Monkeytype: [here](#monkeytype)
-  - Playhydra: [here](#playhydra)
-  - Abcya: [here](#abyca)
-  - Hdun: [here](#hdun)
-  - Liorxyst: [here](#liorxyst)
-  - Celery XYZ: [here](#celery-xyz)
-  - *Hahamini*: [here](#hahamini)
-  - Gessx: [here](#gessx)
-  - Geometry Spot: [here](#geometry-spot)
-  - Aster: [here](#aster--and-hacks)
-#### Specific, Single Games like Idle Breakout (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#games) 
 
 ---
 **Other files:** <br>
@@ -101,7 +79,7 @@ Moved them to the mainUnblockers page: https://github.com/wea-f/ByePassHub/blob/
 
 **USE A PROXY - Either Utopia, Shadow, Interstellar, Rammerhead, or Doge. Paste these links to them. (These links are likely blocked.)** <br>
 **However there is a timer! You must follow these steps to reset it from this youtube video: https://www.youtube.com/watch?v=rMcitPkaMtM (Warning: Beware, i didn't test this)** <br>
-**WORKS ON CK**: https://ubgroblox.global.ssl.fastly.net/ <br>
+https://ubgroblox.global.ssl.fastly.net/ <br>
 NEWEST ONES 9/24/25!!! <br>
 https://doctoraux.com/ <br>
 https://pluralsight.gq/ <br>
@@ -135,189 +113,7 @@ https://v3.now.gg/ <br>
 
 **^ Back to [top ^](#table-of-contents)**
 
-  
 
-### Unblocked Games Hub
-
-https://beiswenger.net/unblocked/ <br>
-
-
-
-
-### A1R
-
-https://student-portal.hustlersuniversity.pro/ <br>
- 
-
-### Phantom Games | RECOMMENDED
-**Mar 24 Links:** <br>
-https://all-of-the-above.depression-anxiety-assessment.com/ <br>
-https://ixl-login-page22.yixianhui.net/ <br>
-https://blubird.matthias-berlin.de/ <br>
-https://bobbird.casarosalba.com/ <br>
-https://blueybirdy.casarosalba.cl/ <br>
- <br>
-**Jan 25 Links:** <br>
-www.thisemeraldisfree.jokertv.eu/   <br>
-https://phantom-gg-pdfz-sike.duckdns.org/   <br>
-https://phantomtest.delusionz.xyz/   <br>
-https://lifeiswarthunder.hbmc.net/   <br>
-https://fantomutoemerarudotteiptigaunka.easterndns.com/   <br>
-**Dec 25 Links:** <br>
-https://somewhere.only.we.know.cissp.or.id/ <br>
-https://im.bored.df.cissp.or.id/ <br>
-https://phgms.blacknapkins.org/ <br>
-https://if-you-look-very-closely-at-you-will-see-nerd.ubernerden.com/ <br>
-https://mason-is-not-rizzful.ghostnation.org/ <br>
-https://i-ate-olivers-feet-when-mason-was-watching.ghostnation.org/ <br>
-https://sigma-boyz.ghostnation.org/ <br>
-https://software.help.info.asmasoft.com/ <br>
-https://0000001qwerty.mydev.co.za/ <br>
-https://phantomtest.delusionz.xyz/ <br>
-**All NEW  Links - Nov 18** <br>
-https://masteryconnectscience11thgrade.pickens.k12.sc.us.wiki.gd/ <br>
-https://schoology.pickens.k12.sc.us.byteloc.com/ <br>
-https://masteryconnect11thgrademath.iseasy.tw/ <br>
-https://ixlmath7thgradealgrebra.iseasy.tw/ <br>
-https://canvaimagecreater.pickens.k12.sc.us.iseasy.tw/ <br>
-https://canvaslearning.studentvue.learningsocstudies.iseasy.tw/ <br>
-https://schoology.pickens.k12.sc.us.iseasy.tw/ <br>
-https://chimmy.chunka.chimmychurry.com/ <br>
-https://majestic.charles.dob.jp/ <br>
-https://fgotj.socialistsushi.com/ <br>
-https://gr.stillart.ch/ <br>
-https://rherh.themcneils.org.uk/ <br>
-https://edge.joaopedroreis.com/ <br>
-https://skillcloud.thebluecanopy.com/ <br>
-https://edu.thebluecanopy.com/ <br>
-https://spacestuffforthekidzz.smilelistplan.com/ <br>
-https://iamtestingsomething.df.unitgrapigs.com/ <br>
-https://canvaslearning.studentvue.learningsocstudies.matlib.org/ <br>
-
-**^ Back to [top ^](#table-of-contents)**
-  
-
-### 3kh0 | RECOMMENDED
-
-
-https://3kh0-reborn.outred.dev/ <br>
- 
-
-### Google Sites | RECOMMENDED
-
-https://sites.google.com/view/retro-bowl-play <br>
-
-https://sites.google.com/view/slope-play/retro-bowl <br>
-
-
-https://sites.google.com/view/bushhub/home <br>
-
-
-https://sites.google.com/view/bingforschools/Google<br>
-
-https://sites.google.com/site/classroom6x <br>
-
-https://sites.google.com/view/iogames <br>
-
-https://sites.google.com/view/lotsogames/ <br>
-
-
-https://sites.google.com/view/meximath/home <br>
-
-
-https://sites.google.com/site/mostfungames69/home <br>
-
-https://sites.google.com/view/schoolgames444/home <br>
-
-https://sites.google.com/view/cybercityunblocked/gxmes <br>
-
-https://sites.google.com/view/game-hub-unbl0cked/ <br>
-
-https://sites.google.com/view/universal-arcade/home <br>
-
-https://sites.google.com/view/thats-nuclear/home <br>
-
-<br>
-
-**^ Back to [top ^](#table-of-contents)**
- 
-
-### Jordan's Math Work
-**NEW Nov 18** https://math-work-version-6.firebaseapp.com/ <br>
-
-https://www.jordansmathwork.cf/ <br>
-
-https://jmw.algebrashelper.com/ <br>
-
-https://jmw.mathisthebest.xyz/ <br>
-
-https://a1riscool.easyreadwrite.xyz/ (CLICK 1 ON YOUR KEYBOARD TWICE) <br>
-
-https://jmw.tethers.wiki/ <br>
-
-https://new.commanders.design/ <br>
-
-https://5min.doityourselfcrafts.design/ <br>
-
-https://onk.vercel.app/ <br>
-
-https://dash.schoolcharts.lat/ <br>
-
-https://getridof.chubsinfestation.design/ <br>
-
-https://school.stem-challenges.quest/ <br>
-
-https://help-from.your.learningally.cfd/ <br>
-
-https://everyone.loves.bachsite.us/ <br>
-
-https://really.the.eaglessuck.design/ <br>
-
-https://who-does-not.love.blackwomen.design/ <br>
-
-https://voting-for.better.eduacation.pro/ <br>
-
-https://detailed.articles.nasa-info.link/ <br>
-
-https://i-am.a.eduacation.pro/ <br>
-
-https://cnn10.nasa-info.link/ <br>
-
-https://jobs.more.nasa-info.link/ <br>
-
-https://insights.info.nasatech.space/ <br>
-
-https://dashboard.viewing.gianthomesforsale.homes <br>
-
-https://learning.about.nasatechnology.space <br>
-
-https://portfolio.tether-dev.com/ <br>
-
-https://tutoring.easyreadwrite.xyz/ <br>
-
-https://its-the.michael.myers-usa.com/ <br>
-
-https://what.language-isthis.xn--72cg7bdd3bro6b3ab9c8btw4x.com/ <br>
-
-https://the.studio.dcmusic.ca/ <br>
-
-https://ohnoasweaty.fortnitebuilder.pro/ <br>
-
-<br>
-
-**^ Back to [top ^](#table-of-contents)**
-
-### Vafor IT
-**Has intrusive ads, hopefully you have an ad blocker**
-https://maxwellstevenson.com <br>
-https://ph4xus.github.io <br>
-https://phexus.bitbucket.io <br>
-https://phexus.netlify.app <br>
-
-### Schoology
-
-https://schoologygamers.weebly.com/games.html <br>
-  
 
 ### Shell Shockers Alternatives ([credit](https://shellshockers.fandom.com/wiki/Alternate_URLs))
 
@@ -535,17 +331,9 @@ https://eaglercraft.me/ <br>
 https://eaglercraft.org/ <br>
 
 https://eaglercraft.com/ <br>
-
-##### Actual, real Minecraft
-
-None <br>
-
 <br>
 
 **^ Back to [top ^](#table-of-contents)**
-
-### Cookie Clicker
-Here are 10k links: https://drive.google.com/file/d/1EhrQjb_Ho51X9RfQGcwDAYihaRZ8LJVz/view <br>
 
 ### Chess
 
@@ -579,41 +367,6 @@ https://aim.lol/ <br>
 https://nowcollege.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/1v1_lol.html <br>
  
 
-### Vortex Math | main password: 126711, games password: 649290, there is also a soundboard
-
-https://vortexmath.my.canva.site/_password <br>
- 
-
-### Plexile Arcade
-**4/20 Links** <br>
-rizz.digitalhemi.com <br>
-ohiorizzler.thisiscoolt.com <br>
-cgrrccgrvffgcfgcgcrg.mooo.com <br>
-datnon.charbel.cl <br>
-lightspeediscool.com <br>
-insanealgebraproblems.com <br>
-mathy.axsetubal.pt <br>
-dawg.awoofcity.com <br>
-wizard.agroconsultingclub.ro <br> <br>
-**4/5 Links** <br>
-rizz.digitalhemi.com <br>
-ohiorizzler.thisiscoolt.com <br>
-cgrrccgrvffgcfgcgcrg.mooo.com <br>
-datnon.charbel.cl <br>
-lightspeediscool.com <br>
-datnon.charbel.cldatnon.charbel.cl <br> <br>
-**Mar 24 Links** <br>
-https://schoology.plazik.pl/ <br>
-https://helloguys.plazik.pl/ <br>
-https://plex.bryongaskin.net/ <br>
-https://c1ever.niteryder.net/ <br>
-https://finally.nekros.info/ <br>
-http://asdfghjkl.asdfghjkl.asdfghjkl.chickenkiller.com/ <br>
-https://flipflop.goguardianisnotnice.ignorelist.com <br>
-https://sigma.odoobooks.com <br>
-https://appleiscool.ignorelist.com <br>
-
- 
 
 ## Hydra
 
@@ -634,7 +387,6 @@ https://lichgames.s3.amazonaws.com/index.html <br>
  
 
 ### Not Games
-
 https://tryhxrdbaconyt.my.canva.site/nothing <br>
  
 
@@ -735,7 +487,6 @@ Compute it: https://compute-it.toxicode.fr/ <br>
 Oregon Trail: https://jamesfriend.com.au/pce-js/mecc/oregon-trail.html <br>
 
 Super Cook: https://www.supercook.com/#/desktop <br>
-**All below links are NEW - Nov 18** <br>
 Evil Glitch: https://immawowwowyourwubbzy.w3spaces.com/evil-glitch.html<br>
 Konekt: https://immawowwowyourwubbzy.w3spaces.com/Konekt.html<br>
 RetroHaunt: https://immawowwowyourwubbzy.w3spaces.com/RetroHaunt.html<br>
