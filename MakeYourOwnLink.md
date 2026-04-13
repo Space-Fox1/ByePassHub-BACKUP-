@@ -1,4 +1,4 @@
-# ByePassHub > Making your Own Links | updated Jan 26
+# ByePassHub > Making your Own Links
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to host your own proxy/ You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 
