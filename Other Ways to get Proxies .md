@@ -1,5 +1,5 @@
-# ByePassHub > Other ways to get Proxies | updated April 12
-Resources to find proxies, exploits, bypasses, etc. that are *hidden* to the public eye, so <br>
+# ByePassHub > Other ways to get Proxies | updated April 12!!
+**BEST & MOST UP TO DATE** Resources to find proxies, exploits, bypasses, etc. that are *hidden* to the public eye, so <br>
 1. You can get the freshest links and tools 😎
 2. Those links and bypasses are more likely to work for a longer time
 
